@@ -7,6 +7,7 @@ public class BuferReader {
 
         String s = sc.readLine();
         System.out.println();
+
         System.out.println ("Ви ввели : "+s);
     }
 }
